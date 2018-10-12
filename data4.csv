@@ -1,0 +1,53 @@
+Price,Beds,Baths,Price_per_sqft,Type,Yr_Built,Zipcode,City,Sqft_lot,Sqft_liv,High_school_rating,Middle_school_rating,Elementary_School_Rating,Heating,Cooling,Fireplace,View
+415000,2.0,1.75,338,Condo/Townhome/Row Home/Co-Op,1992,98144,Seattle,,1228.0,6,7,6," Electric heat,Forced air heat",,,
+415000,2.0,1.75,338,Condo/Townhome/Row Home/Co-Op,1992,98144,Seattle,,1228.0,6,7,6," Electric heat,Forced air heat",,,
+640000,3.0,2.5,333,Single Family Home,1999,98065,Snoqualmie,3485.0,1920.0,9,6,8," Electric heat,Forced air heat,Natural gas heat",,Fireplace(s): Yes,
+799000,3.0,2.0,333,Single Family Home,1923,98105,Seattle,5227.0,2400.0,10,8,7," Electric heat,Forced air heat,Natural gas heat",,Fireplace(s): Yes,
+820990,2.0,,596,single_family,,98008,Bellevue,,1378.0,8,4,3,,,,
+814990,2.0,,537,single_family,,98008,Bellevue,,1519.0,8,4,3,,,,
+1188000,3.0,1.75,356,Single Family Home,1937,98199,Seattle,6534.0,3340.0,9,7,8," Forced air heat,Natural gas heat", Ceiling fan(s),,View: Yes
+228000,3.0,1.75,203,Condo/Townhome/Row Home/Co-Op,1981,98002,Auburn,,1125.0,3,2,2," Electric heat,Forced air heat,Natural gas heat",,Fireplace(s): Yes,
+1598000,6.0,4.0,276,Single Family Home,2011,98006,Bellevue,0.38,5790.0,8,7,8," Forced Air,Heat Pump,High Efficiency",,,
+599950,5.0,,195,single_family,,98092,Auburn,,3081.0,7,4,4,,,,
+749000,3.0,1.75,353,Single Family Home,1966,98005,Bellevue,9148.0,2120.0,7,7,4," Forced air heat,Natural gas heat",,Fireplace(s): Yes,
+1278000,2.0,2.25,620,Single Family Home,2007,98119,Seattle,1307.0,2060.0,9,7,9," Natural gas heat,Radiant heat", Central A/C,Fireplace(s): Yes,View: Yes
+2745000,3.0,3.0,532,Single Family Home,1979,98040,Mercer Island,0.34,5160.0,10,8,9," Baseboard heater(s),Electric heat", Central A/C,Fireplace(s): Yes,View: Yes
+668000,3.0,2.25,493,Condo/Townhome/Row Home/Co-Op,1995,98052,Redmond,,1355.0,9,9,8," Electric heat,Forced air heat", Central A/C,Fireplace(s): Yes,
+825000,3.0,1.75,453,Single Family Home,1979,98027,Issaquah,7405.0,1820.0,8,7,8, Forced air heat," Central A/C, Ceiling fan(s)",,
+499990,4.0,2.5,166,Single Family Home,2003,98042,Kent,5703.0,3010.0,5,4,6, Forced Air,,,
+325000,1.0,1.0,552,Condo/Townhome/Row Home/Co-Op,2001,98136,West Seattle,,589.0,5,7,4, Forced Air,,Fireplace(s): Yes,
+749900,4.0,3.25,266,Single Family Home,1998,98022,Enumclaw,9.94,2820.0,5,5,7," Forced Air,Insert",,Fireplace in Mstr BR,View: Yes
+649950,4.0,3.0,247,Single Family Home,2006,98038,Maple Valley,6970.0,2630.0,9,NR,9, Forced air heat," Central A/C, Ceiling fan(s)",Fireplace(s): Yes,
+279950,2.0,2.5,233,Condo/Townhome/Row Home/Co-Op,1990,98057,Renton,11.62,1202.0,3,3,5," Baseboard,Wall",,Fireplace(s): Yes,View: Yes
+2224995,4.0,3.25,586,Single Family Home,2018,98004,Bellevue,0.24,3796.0,8,6,7," Natural gas heat,Radiant heat", Central A/C,Fireplace(s): Yes,
+424999,5.0,2.5,160,Single Family Home,1968,98032,Kent,0.28,2660.0,3,2,3, Forced Air, Central A/C,,View: Yes
+1850000,3.0,2.75,599,Single Family Home,1958,98105,Seattle,0.29,3090.0,10,8,4," Forced Air,Radiant",,,View: Yes
+624950,3.0,2.0,284,Single Family Home,2015,98001,Auburn,0.71,2200.0,3,2,7, Electric heat," Central A/C, Ceiling fan(s)",,
+1059995,5.0,,314,single_family,,98072,Woodinville,,3375.0,7,6,5,,,,
+389000,3.0,2.25,233,Single Family Home,1989,98023,Federal Way,8712.0,1670.0,4,3,6," Forced air heat,Natural gas heat", Ceiling fan(s),Fireplace(s): Yes,
+399950,2.0,1.0,288,Single Family Home,1974,98198,Des Moines,3049.0,1390.0,3,3,4," Forced air heat,Natural gas heat",,Fireplace(s): Yes,
+750000,2.0,1.0,649,Single Family Home,1927,98118,Seattle,3049.0,1155.0,5,5,2," Forced air heat,Natural gas heat", Ceiling fan(s),,View: Yes
+695000,4.0,2.5,265,Single Family Home,2012,98055,Renton,4792.0,2624.0,8,4,5," Forced air heat,Natural gas heat",,Fireplace(s): Yes,
+279950,2.0,1.0,243,Single Family Home,1951,98168,Seattle,8100.0,1150.0,1,2,4," Stove/Free Standing,Wall",,,View: Yes
+458000,3.0,1.0,358,Single Family Home,1940,98166,Normandy Park,6700.0,1280.0,3,2,4, Forced Air,,Fireplace(s): Yes,
+1349000,2.0,2.0,839,Condo/Townhome/Row Home/Co-Op,2010,98101,Seattle,,1607.0,7,NR,2," Electric heat,Forced air heat", Central A/C,Fireplace(s): Yes,
+924000,5.0,2.5,276,Single Family Home,1979,98058,Renton,0.62,3345.0,9,7,7," Electric heat,Forced air heat", Central A/C,Fireplace(s): Yes,
+899950,1.0,1.5,808,Condo/Townhome/Row Home/Co-Op,2008,98121,Seattle,0.45,1114.0,7,NR,2, Forced Air, Central A/C,,View: Yes
+699950,4.0,2.5,216,Single Family Home,2015,98001,Auburn,0.26,3248.0,6,2,4," Electric heat,Forced air heat,Natural gas heat",,Fireplace(s): Yes,
+668000,3.0,2.25,493,Condo/Townhome/Row Home/Co-Op,1995,98052,Redmond,,1355.0,9,9,8," Electric heat,Forced air heat", Central A/C,Fireplace(s): Yes,
+1250000,3.0,2.25,512,Single Family Home,1954,98005,Bellevue,0.67,2440.0,7,7,3," Forced air heat,Natural gas heat",,,
+849000,3.0,2.5,347,Single Family Home,1991,98011,Bothell,9600.0,2450.0,7,6,7, Forced Air, Central A/C,,View: Yes
+1499950,5.0,3.75,474,Single Family Home,2018,98103,Seattle,4356.0,3163.0,10,NR,7," Forced air heat,Natural gas heat", Central A/C,Fireplace(s): Yes,View: Yes
+422500,3.0,1.75,222,Single Family Home,1958,98056,Renton,8058.0,1900.0,3,3,3, Forced Air,,Fireplace(s): Yes,
+2424995,4.0,3.5,585,Single Family Home,2018,98004,Bellevue,0.24,4143.0,8,6,7," Natural gas heat,Radiant heat", Central A/C,Fireplace(s): Yes,
+374950,4.0,1.0,282,Single Family Home,1966,98010,Black Diamond,0.36,1330.0,5,4,8, Forced Air,,Fireplace(s): Yes,View: Yes
+691990,2.0,,479,single_family,,98008,Bellevue,,1444.0,8,4,3,,,,
+850000,3.0,1.75,392,Single Family Home,1919,98105,Seattle,3920.0,2170.0,10,8,7, Natural gas heat,,Fireplace(s): Yes,
+775000,3.0,2.0,531,Single Family Home,1925,98103,Seattle,2178.0,1460.0,10,NR,7," Electric heat,Heat pump",,Fireplace(s): Yes,
+173999,3.0,,94,single_family,,98045,North Bend,,1843.0,9,6,5,,,,
+1125000,5.0,,374,single_family,,98075,Sammamish,,3007.0,8,7,9,,,,
+1170000,4.0,,388,single_family,,98075,Sammamish,,3018.0,7,9,9,,,Fireplaces,
+750000,4.0,2.5,436,Single Family Home,1995,98136,Seattle,6500.0,1720.0,5,7,9, Forced Air,,Fireplace(s): Yes,
+418000,4.0,2.25,191,Single Family Home,1980,98031,Kent,9940.0,2185.0,8,4,7," Forced Air,Heat Pump,Insert",,,
+1495000,3.0,2.5,558,Single Family Home,2014,98014,Carnation,20.3,2680.0,9,6,5, Electric heat," Central A/C, Ceiling fan(s)",,
+589949,2.0,1.0,756,Single Family Home,1925,98126,Seattle,5227.0,780.0,3,6,3," Electric heat,Natural gas heat",,,View: Yes
