@@ -1,2 +1,2 @@
-# Metis-Luther
-Predicting house prices
+# Metis-Luther: Description of all the files
+
